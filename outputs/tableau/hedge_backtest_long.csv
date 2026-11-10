@@ -1,0 +1,1213 @@
+month,strategy,margin_usd_bbl
+2010-01-01,Unhedged,9.885
+2010-02-01,Unhedged,10.423
+2010-03-01,Unhedged,11.338
+2010-04-01,Unhedged,9.532
+2010-05-01,Unhedged,10.483
+2010-06-01,Unhedged,11.156
+2010-07-01,Unhedged,9.198
+2010-08-01,Unhedged,7.088
+2010-09-01,Unhedged,7.743
+2010-10-01,Unhedged,10.141
+2010-11-01,Unhedged,10.87
+2010-12-01,Unhedged,10.452
+2011-01-01,Unhedged,9.009
+2011-02-01,Unhedged,7.662
+2011-03-01,Unhedged,8.677
+2011-04-01,Unhedged,11.14
+2011-05-01,Unhedged,11.838
+2011-06-01,Unhedged,7.969
+2011-07-01,Unhedged,12.13
+2011-08-01,Unhedged,11.206
+2011-09-01,Unhedged,6.404
+2011-10-01,Unhedged,10.075
+2011-11-01,Unhedged,6.185
+2011-12-01,Unhedged,6.89
+2012-01-01,Unhedged,11.465
+2012-02-01,Unhedged,11.015
+2012-03-01,Unhedged,9.471
+2012-04-01,Unhedged,15.268
+2012-05-01,Unhedged,11.955
+2012-06-01,Unhedged,15.652
+2012-07-01,Unhedged,15.204
+2012-08-01,Unhedged,15.784
+2012-09-01,Unhedged,23.919
+2012-10-01,Unhedged,16.655
+2012-11-01,Unhedged,14.353
+2012-12-01,Unhedged,9.855
+2013-01-01,Unhedged,10.347
+2013-02-01,Unhedged,14.752
+2013-03-01,Unhedged,15.634
+2013-04-01,Unhedged,14.117
+2013-05-01,Unhedged,14.746
+2013-06-01,Unhedged,14.288
+2013-07-01,Unhedged,16.177
+2013-08-01,Unhedged,13.797
+2013-09-01,Unhedged,9.392
+2013-10-01,Unhedged,8.048
+2013-11-01,Unhedged,8.197
+2013-12-01,Unhedged,8.445
+2014-01-01,Unhedged,10.34
+2014-02-01,Unhedged,14.558
+2014-03-01,Unhedged,11.519
+2014-04-01,Unhedged,14.763
+2014-05-01,Unhedged,11.741
+2014-06-01,Unhedged,10.755
+2014-07-01,Unhedged,11.998
+2014-08-01,Unhedged,14.046
+2014-09-01,Unhedged,17.457
+2014-10-01,Unhedged,15.388
+2014-11-01,Unhedged,15.226
+2014-12-01,Unhedged,13.324
+2015-01-01,Unhedged,13.829
+2015-02-01,Unhedged,15.087
+2015-03-01,Unhedged,16.143
+2015-04-01,Unhedged,16.483
+2015-05-01,Unhedged,17.702
+2015-06-01,Unhedged,21.098
+2015-07-01,Unhedged,18.979
+2015-08-01,Unhedged,19.921
+2015-09-01,Unhedged,14.302
+2015-10-01,Unhedged,11.279
+2015-11-01,Unhedged,14.058
+2015-12-01,Unhedged,13.696
+2016-01-01,Unhedged,14.1
+2016-02-01,Unhedged,11.932
+2016-03-01,Unhedged,11.929
+2016-04-01,Unhedged,16.437
+2016-05-01,Unhedged,16.88
+2016-06-01,Unhedged,14.79
+2016-07-01,Unhedged,12.067
+2016-08-01,Unhedged,12.34
+2016-09-01,Unhedged,13.66
+2016-10-01,Unhedged,14.913
+2016-11-01,Unhedged,16.772
+2016-12-01,Unhedged,15.219
+2017-01-01,Unhedged,13.239
+2017-02-01,Unhedged,11.238
+2017-03-01,Unhedged,11.585
+2017-04-01,Unhedged,14.914
+2017-05-01,Unhedged,13.95
+2017-06-01,Unhedged,13.932
+2017-07-01,Unhedged,16.894
+2017-08-01,Unhedged,18.385
+2017-09-01,Unhedged,20.753
+2017-10-01,Unhedged,15.712
+2017-11-01,Unhedged,15.404
+2017-12-01,Unhedged,11.82
+2018-01-01,Unhedged,13.296
+2018-02-01,Unhedged,12.705
+2018-03-01,Unhedged,12.172
+2018-04-01,Unhedged,13.071
+2018-05-01,Unhedged,14.007
+2018-06-01,Unhedged,12.469
+2018-07-01,Unhedged,13.866
+2018-08-01,Unhedged,15.753
+2018-09-01,Unhedged,11.095
+2018-10-01,Unhedged,8.414
+2018-11-01,Unhedged,9.145
+2018-12-01,Unhedged,9.204
+2019-01-01,Unhedged,6.606
+2019-02-01,Unhedged,7.418
+2019-03-01,Unhedged,12.443
+2019-04-01,Unhedged,14.725
+2019-05-01,Unhedged,10.839
+2019-06-01,Unhedged,10.347
+2019-07-01,Unhedged,15.817
+2019-08-01,Unhedged,13.947
+2019-09-01,Unhedged,12.566
+2019-10-01,Unhedged,15.802
+2019-11-01,Unhedged,12.296
+2019-12-01,Unhedged,8.484
+2020-01-01,Unhedged,8.702
+2020-02-01,Unhedged,11.411
+2020-03-01,Unhedged,9.592
+2020-04-01,Unhedged,10.411
+2020-05-01,Unhedged,7.576
+2020-06-01,Unhedged,6.853
+2020-07-01,Unhedged,8.256
+2020-08-01,Unhedged,7.42
+2020-09-01,Unhedged,9.144
+2020-10-01,Unhedged,9.604
+2020-11-01,Unhedged,8.414
+2020-12-01,Unhedged,8.264
+2021-01-01,Unhedged,10.999
+2021-02-01,Unhedged,12.137
+2021-03-01,Unhedged,16.143
+2021-04-01,Unhedged,17.044
+2021-05-01,Unhedged,19.152
+2021-06-01,Unhedged,17.198
+2021-07-01,Unhedged,17.963
+2021-08-01,Unhedged,20.634
+2021-09-01,Unhedged,20.17
+2021-10-01,Unhedged,21.787
+2021-11-01,Unhedged,18.96
+2021-12-01,Unhedged,18.675
+2022-01-01,Unhedged,18.76
+2022-02-01,Unhedged,19.862
+2022-03-01,Unhedged,24.815
+2022-04-01,Unhedged,41.262
+2022-05-01,Unhedged,59.482
+2022-06-01,Unhedged,51.93
+2022-07-01,Unhedged,37.855
+2022-08-01,Unhedged,34.598
+2022-09-01,Unhedged,32.589
+2022-10-01,Unhedged,52.041
+2022-11-01,Unhedged,45.272
+2022-12-01,Unhedged,28.658
+2023-01-01,Unhedged,35.835
+2023-02-01,Unhedged,27.977
+2023-03-01,Unhedged,30.424
+2023-04-01,Unhedged,28.811
+2023-05-01,Unhedged,29.278
+2023-06-01,Unhedged,33.718
+2023-07-01,Unhedged,32.693
+2023-08-01,Unhedged,37.962
+2023-09-01,Unhedged,33.674
+2023-10-01,Unhedged,23.699
+2023-11-01,Unhedged,22.314
+2023-12-01,Unhedged,21.544
+2024-01-01,Unhedged,20.209
+2024-02-01,Unhedged,20.543
+2024-03-01,Unhedged,21.48
+2024-04-01,Unhedged,23.786
+2024-05-01,Unhedged,23.072
+2024-06-01,Unhedged,20.32
+2024-07-01,Unhedged,19.347
+2024-08-01,Unhedged,16.785
+2024-09-01,Unhedged,13.3
+2024-10-01,Unhedged,15.774
+2024-11-01,Unhedged,15.823
+2024-12-01,Unhedged,14.158
+2025-01-01,Unhedged,15.844
+2025-02-01,Unhedged,18.305
+2025-03-01,Unhedged,14.346
+2025-04-01,Unhedged,15.144
+2025-05-01,Unhedged,19.905
+2025-06-01,Unhedged,19.694
+2025-07-01,Unhedged,24.074
+2025-08-01,Unhedged,24.113
+2025-09-01,Unhedged,21.657
+2025-10-01,Unhedged,21.104
+2025-11-01,Unhedged,25.847
+2025-12-01,Unhedged,18.878
+2026-01-01,Unhedged,22.796
+2026-02-01,Unhedged,22.393
+2026-03-01,Unhedged,34.9
+2026-04-01,Unhedged,30.151
+2026-05-01,Unhedged,47.852
+2026-06-01,Unhedged,47.007
+2026-07-01,Unhedged,60.541
+2026-08-01,Unhedged,57.799
+2026-09-01,Unhedged,50.912
+2026-10-01,Unhedged,30.343
+2010-01-01,"50% hedge, 3 months ahead",9.361
+2010-02-01,"50% hedge, 3 months ahead",8.629
+2010-03-01,"50% hedge, 3 months ahead",9.171
+2010-04-01,"50% hedge, 3 months ahead",9.709
+2010-05-01,"50% hedge, 3 months ahead",10.453
+2010-06-01,"50% hedge, 3 months ahead",11.247
+2010-07-01,"50% hedge, 3 months ahead",9.365
+2010-08-01,"50% hedge, 3 months ahead",8.786
+2010-09-01,"50% hedge, 3 months ahead",9.45
+2010-10-01,"50% hedge, 3 months ahead",9.67
+2010-11-01,"50% hedge, 3 months ahead",8.979
+2010-12-01,"50% hedge, 3 months ahead",9.097
+2011-01-01,"50% hedge, 3 months ahead",9.575
+2011-02-01,"50% hedge, 3 months ahead",9.266
+2011-03-01,"50% hedge, 3 months ahead",9.564
+2011-04-01,"50% hedge, 3 months ahead",10.074
+2011-05-01,"50% hedge, 3 months ahead",9.75
+2011-06-01,"50% hedge, 3 months ahead",8.323
+2011-07-01,"50% hedge, 3 months ahead",11.635
+2011-08-01,"50% hedge, 3 months ahead",11.522
+2011-09-01,"50% hedge, 3 months ahead",7.186
+2011-10-01,"50% hedge, 3 months ahead",11.102
+2011-11-01,"50% hedge, 3 months ahead",8.696
+2011-12-01,"50% hedge, 3 months ahead",6.647
+2012-01-01,"50% hedge, 3 months ahead",10.77
+2012-02-01,"50% hedge, 3 months ahead",8.6
+2012-03-01,"50% hedge, 3 months ahead",8.18
+2012-04-01,"50% hedge, 3 months ahead",13.367
+2012-05-01,"50% hedge, 3 months ahead",11.485
+2012-06-01,"50% hedge, 3 months ahead",12.561
+2012-07-01,"50% hedge, 3 months ahead",15.236
+2012-08-01,"50% hedge, 3 months ahead",13.87
+2012-09-01,"50% hedge, 3 months ahead",19.785
+2012-10-01,"50% hedge, 3 months ahead",15.93
+2012-11-01,"50% hedge, 3 months ahead",15.068
+2012-12-01,"50% hedge, 3 months ahead",16.887
+2013-01-01,"50% hedge, 3 months ahead",13.501
+2013-02-01,"50% hedge, 3 months ahead",14.552
+2013-03-01,"50% hedge, 3 months ahead",12.744
+2013-04-01,"50% hedge, 3 months ahead",12.232
+2013-05-01,"50% hedge, 3 months ahead",14.749
+2013-06-01,"50% hedge, 3 months ahead",14.961
+2013-07-01,"50% hedge, 3 months ahead",15.147
+2013-08-01,"50% hedge, 3 months ahead",14.272
+2013-09-01,"50% hedge, 3 months ahead",11.84
+2013-10-01,"50% hedge, 3 months ahead",12.113
+2013-11-01,"50% hedge, 3 months ahead",10.997
+2013-12-01,"50% hedge, 3 months ahead",8.918
+2014-01-01,"50% hedge, 3 months ahead",9.194
+2014-02-01,"50% hedge, 3 months ahead",11.378
+2014-03-01,"50% hedge, 3 months ahead",9.982
+2014-04-01,"50% hedge, 3 months ahead",12.552
+2014-05-01,"50% hedge, 3 months ahead",13.15
+2014-06-01,"50% hedge, 3 months ahead",11.137
+2014-07-01,"50% hedge, 3 months ahead",13.381
+2014-08-01,"50% hedge, 3 months ahead",12.894
+2014-09-01,"50% hedge, 3 months ahead",14.106
+2014-10-01,"50% hedge, 3 months ahead",13.693
+2014-11-01,"50% hedge, 3 months ahead",14.636
+2014-12-01,"50% hedge, 3 months ahead",15.391
+2015-01-01,"50% hedge, 3 months ahead",14.608
+2015-02-01,"50% hedge, 3 months ahead",15.156
+2015-03-01,"50% hedge, 3 months ahead",14.734
+2015-04-01,"50% hedge, 3 months ahead",15.156
+2015-05-01,"50% hedge, 3 months ahead",16.394
+2015-06-01,"50% hedge, 3 months ahead",18.62
+2015-07-01,"50% hedge, 3 months ahead",17.731
+2015-08-01,"50% hedge, 3 months ahead",18.812
+2015-09-01,"50% hedge, 3 months ahead",17.7
+2015-10-01,"50% hedge, 3 months ahead",15.129
+2015-11-01,"50% hedge, 3 months ahead",16.99
+2015-12-01,"50% hedge, 3 months ahead",13.999
+2016-01-01,"50% hedge, 3 months ahead",12.689
+2016-02-01,"50% hedge, 3 months ahead",12.995
+2016-03-01,"50% hedge, 3 months ahead",12.813
+2016-04-01,"50% hedge, 3 months ahead",15.268
+2016-05-01,"50% hedge, 3 months ahead",14.406
+2016-06-01,"50% hedge, 3 months ahead",13.36
+2016-07-01,"50% hedge, 3 months ahead",14.252
+2016-08-01,"50% hedge, 3 months ahead",14.61
+2016-09-01,"50% hedge, 3 months ahead",14.225
+2016-10-01,"50% hedge, 3 months ahead",13.49
+2016-11-01,"50% hedge, 3 months ahead",14.556
+2016-12-01,"50% hedge, 3 months ahead",14.439
+2017-01-01,"50% hedge, 3 months ahead",14.076
+2017-02-01,"50% hedge, 3 months ahead",14.005
+2017-03-01,"50% hedge, 3 months ahead",13.402
+2017-04-01,"50% hedge, 3 months ahead",14.077
+2017-05-01,"50% hedge, 3 months ahead",12.594
+2017-06-01,"50% hedge, 3 months ahead",12.759
+2017-07-01,"50% hedge, 3 months ahead",15.904
+2017-08-01,"50% hedge, 3 months ahead",16.167
+2017-09-01,"50% hedge, 3 months ahead",17.343
+2017-10-01,"50% hedge, 3 months ahead",16.303
+2017-11-01,"50% hedge, 3 months ahead",16.895
+2017-12-01,"50% hedge, 3 months ahead",16.287
+2018-01-01,"50% hedge, 3 months ahead",14.504
+2018-02-01,"50% hedge, 3 months ahead",14.055
+2018-03-01,"50% hedge, 3 months ahead",11.996
+2018-04-01,"50% hedge, 3 months ahead",13.183
+2018-05-01,"50% hedge, 3 months ahead",13.356
+2018-06-01,"50% hedge, 3 months ahead",12.32
+2018-07-01,"50% hedge, 3 months ahead",13.468
+2018-08-01,"50% hedge, 3 months ahead",14.88
+2018-09-01,"50% hedge, 3 months ahead",11.782
+2018-10-01,"50% hedge, 3 months ahead",11.14
+2018-11-01,"50% hedge, 3 months ahead",12.449
+2018-12-01,"50% hedge, 3 months ahead",10.149
+2019-01-01,"50% hedge, 3 months ahead",7.51
+2019-02-01,"50% hedge, 3 months ahead",8.282
+2019-03-01,"50% hedge, 3 months ahead",10.823
+2019-04-01,"50% hedge, 3 months ahead",10.666
+2019-05-01,"50% hedge, 3 months ahead",9.129
+2019-06-01,"50% hedge, 3 months ahead",11.395
+2019-07-01,"50% hedge, 3 months ahead",15.271
+2019-08-01,"50% hedge, 3 months ahead",12.393
+2019-09-01,"50% hedge, 3 months ahead",11.456
+2019-10-01,"50% hedge, 3 months ahead",15.81
+2019-11-01,"50% hedge, 3 months ahead",13.122
+2019-12-01,"50% hedge, 3 months ahead",10.525
+2020-01-01,"50% hedge, 3 months ahead",12.252
+2020-02-01,"50% hedge, 3 months ahead",11.853
+2020-03-01,"50% hedge, 3 months ahead",9.038
+2020-04-01,"50% hedge, 3 months ahead",9.557
+2020-05-01,"50% hedge, 3 months ahead",9.493
+2020-06-01,"50% hedge, 3 months ahead",8.222
+2020-07-01,"50% hedge, 3 months ahead",9.334
+2020-08-01,"50% hedge, 3 months ahead",7.498
+2020-09-01,"50% hedge, 3 months ahead",7.999
+2020-10-01,"50% hedge, 3 months ahead",8.93
+2020-11-01,"50% hedge, 3 months ahead",7.917
+2020-12-01,"50% hedge, 3 months ahead",8.704
+2021-01-01,"50% hedge, 3 months ahead",10.302
+2021-02-01,"50% hedge, 3 months ahead",10.276
+2021-03-01,"50% hedge, 3 months ahead",12.204
+2021-04-01,"50% hedge, 3 months ahead",14.022
+2021-05-01,"50% hedge, 3 months ahead",15.645
+2021-06-01,"50% hedge, 3 months ahead",16.671
+2021-07-01,"50% hedge, 3 months ahead",17.504
+2021-08-01,"50% hedge, 3 months ahead",19.893
+2021-09-01,"50% hedge, 3 months ahead",18.684
+2021-10-01,"50% hedge, 3 months ahead",19.875
+2021-11-01,"50% hedge, 3 months ahead",19.797
+2021-12-01,"50% hedge, 3 months ahead",19.422
+2022-01-01,"50% hedge, 3 months ahead",20.273
+2022-02-01,"50% hedge, 3 months ahead",19.411
+2022-03-01,"50% hedge, 3 months ahead",21.745
+2022-04-01,"50% hedge, 3 months ahead",30.011
+2022-05-01,"50% hedge, 3 months ahead",39.672
+2022-06-01,"50% hedge, 3 months ahead",38.372
+2022-07-01,"50% hedge, 3 months ahead",39.558
+2022-08-01,"50% hedge, 3 months ahead",47.04
+2022-09-01,"50% hedge, 3 months ahead",42.26
+2022-10-01,"50% hedge, 3 months ahead",44.948
+2022-11-01,"50% hedge, 3 months ahead",39.935
+2022-12-01,"50% hedge, 3 months ahead",30.624
+2023-01-01,"50% hedge, 3 months ahead",43.938
+2023-02-01,"50% hedge, 3 months ahead",36.625
+2023-03-01,"50% hedge, 3 months ahead",29.541
+2023-04-01,"50% hedge, 3 months ahead",32.323
+2023-05-01,"50% hedge, 3 months ahead",28.627
+2023-06-01,"50% hedge, 3 months ahead",32.071
+2023-07-01,"50% hedge, 3 months ahead",30.752
+2023-08-01,"50% hedge, 3 months ahead",33.62
+2023-09-01,"50% hedge, 3 months ahead",33.696
+2023-10-01,"50% hedge, 3 months ahead",28.196
+2023-11-01,"50% hedge, 3 months ahead",30.138
+2023-12-01,"50% hedge, 3 months ahead",27.609
+2024-01-01,"50% hedge, 3 months ahead",21.954
+2024-02-01,"50% hedge, 3 months ahead",21.429
+2024-03-01,"50% hedge, 3 months ahead",21.512
+2024-04-01,"50% hedge, 3 months ahead",21.998
+2024-05-01,"50% hedge, 3 months ahead",21.808
+2024-06-01,"50% hedge, 3 months ahead",20.9
+2024-07-01,"50% hedge, 3 months ahead",21.566
+2024-08-01,"50% hedge, 3 months ahead",19.928
+2024-09-01,"50% hedge, 3 months ahead",16.81
+2024-10-01,"50% hedge, 3 months ahead",17.56
+2024-11-01,"50% hedge, 3 months ahead",16.304
+2024-12-01,"50% hedge, 3 months ahead",13.729
+2025-01-01,"50% hedge, 3 months ahead",15.809
+2025-02-01,"50% hedge, 3 months ahead",17.064
+2025-03-01,"50% hedge, 3 months ahead",14.252
+2025-04-01,"50% hedge, 3 months ahead",15.494
+2025-05-01,"50% hedge, 3 months ahead",19.105
+2025-06-01,"50% hedge, 3 months ahead",17.02
+2025-07-01,"50% hedge, 3 months ahead",19.609
+2025-08-01,"50% hedge, 3 months ahead",22.009
+2025-09-01,"50% hedge, 3 months ahead",20.675
+2025-10-01,"50% hedge, 3 months ahead",22.589
+2025-11-01,"50% hedge, 3 months ahead",24.98
+2025-12-01,"50% hedge, 3 months ahead",20.267
+2026-01-01,"50% hedge, 3 months ahead",21.95
+2026-02-01,"50% hedge, 3 months ahead",24.12
+2026-03-01,"50% hedge, 3 months ahead",26.889
+2026-04-01,"50% hedge, 3 months ahead",26.473
+2026-05-01,"50% hedge, 3 months ahead",35.122
+2026-06-01,"50% hedge, 3 months ahead",40.954
+2026-07-01,"50% hedge, 3 months ahead",45.346
+2026-08-01,"50% hedge, 3 months ahead",52.825
+2026-09-01,"50% hedge, 3 months ahead",48.959
+2026-10-01,"50% hedge, 3 months ahead",45.442
+2010-01-01,"100% hedge, 3 months ahead",8.837
+2010-02-01,"100% hedge, 3 months ahead",6.835
+2010-03-01,"100% hedge, 3 months ahead",7.004
+2010-04-01,"100% hedge, 3 months ahead",9.885
+2010-05-01,"100% hedge, 3 months ahead",10.423
+2010-06-01,"100% hedge, 3 months ahead",11.338
+2010-07-01,"100% hedge, 3 months ahead",9.532
+2010-08-01,"100% hedge, 3 months ahead",10.483
+2010-09-01,"100% hedge, 3 months ahead",11.156
+2010-10-01,"100% hedge, 3 months ahead",9.198
+2010-11-01,"100% hedge, 3 months ahead",7.088
+2010-12-01,"100% hedge, 3 months ahead",7.743
+2011-01-01,"100% hedge, 3 months ahead",10.141
+2011-02-01,"100% hedge, 3 months ahead",10.87
+2011-03-01,"100% hedge, 3 months ahead",10.452
+2011-04-01,"100% hedge, 3 months ahead",9.009
+2011-05-01,"100% hedge, 3 months ahead",7.662
+2011-06-01,"100% hedge, 3 months ahead",8.677
+2011-07-01,"100% hedge, 3 months ahead",11.14
+2011-08-01,"100% hedge, 3 months ahead",11.838
+2011-09-01,"100% hedge, 3 months ahead",7.969
+2011-10-01,"100% hedge, 3 months ahead",12.13
+2011-11-01,"100% hedge, 3 months ahead",11.206
+2011-12-01,"100% hedge, 3 months ahead",6.404
+2012-01-01,"100% hedge, 3 months ahead",10.075
+2012-02-01,"100% hedge, 3 months ahead",6.185
+2012-03-01,"100% hedge, 3 months ahead",6.89
+2012-04-01,"100% hedge, 3 months ahead",11.465
+2012-05-01,"100% hedge, 3 months ahead",11.015
+2012-06-01,"100% hedge, 3 months ahead",9.471
+2012-07-01,"100% hedge, 3 months ahead",15.268
+2012-08-01,"100% hedge, 3 months ahead",11.955
+2012-09-01,"100% hedge, 3 months ahead",15.652
+2012-10-01,"100% hedge, 3 months ahead",15.204
+2012-11-01,"100% hedge, 3 months ahead",15.784
+2012-12-01,"100% hedge, 3 months ahead",23.919
+2013-01-01,"100% hedge, 3 months ahead",16.655
+2013-02-01,"100% hedge, 3 months ahead",14.353
+2013-03-01,"100% hedge, 3 months ahead",9.855
+2013-04-01,"100% hedge, 3 months ahead",10.347
+2013-05-01,"100% hedge, 3 months ahead",14.752
+2013-06-01,"100% hedge, 3 months ahead",15.634
+2013-07-01,"100% hedge, 3 months ahead",14.117
+2013-08-01,"100% hedge, 3 months ahead",14.746
+2013-09-01,"100% hedge, 3 months ahead",14.288
+2013-10-01,"100% hedge, 3 months ahead",16.177
+2013-11-01,"100% hedge, 3 months ahead",13.797
+2013-12-01,"100% hedge, 3 months ahead",9.392
+2014-01-01,"100% hedge, 3 months ahead",8.048
+2014-02-01,"100% hedge, 3 months ahead",8.197
+2014-03-01,"100% hedge, 3 months ahead",8.445
+2014-04-01,"100% hedge, 3 months ahead",10.34
+2014-05-01,"100% hedge, 3 months ahead",14.558
+2014-06-01,"100% hedge, 3 months ahead",11.519
+2014-07-01,"100% hedge, 3 months ahead",14.763
+2014-08-01,"100% hedge, 3 months ahead",11.741
+2014-09-01,"100% hedge, 3 months ahead",10.755
+2014-10-01,"100% hedge, 3 months ahead",11.998
+2014-11-01,"100% hedge, 3 months ahead",14.046
+2014-12-01,"100% hedge, 3 months ahead",17.457
+2015-01-01,"100% hedge, 3 months ahead",15.388
+2015-02-01,"100% hedge, 3 months ahead",15.226
+2015-03-01,"100% hedge, 3 months ahead",13.324
+2015-04-01,"100% hedge, 3 months ahead",13.829
+2015-05-01,"100% hedge, 3 months ahead",15.087
+2015-06-01,"100% hedge, 3 months ahead",16.143
+2015-07-01,"100% hedge, 3 months ahead",16.483
+2015-08-01,"100% hedge, 3 months ahead",17.702
+2015-09-01,"100% hedge, 3 months ahead",21.098
+2015-10-01,"100% hedge, 3 months ahead",18.979
+2015-11-01,"100% hedge, 3 months ahead",19.921
+2015-12-01,"100% hedge, 3 months ahead",14.302
+2016-01-01,"100% hedge, 3 months ahead",11.279
+2016-02-01,"100% hedge, 3 months ahead",14.058
+2016-03-01,"100% hedge, 3 months ahead",13.696
+2016-04-01,"100% hedge, 3 months ahead",14.1
+2016-05-01,"100% hedge, 3 months ahead",11.932
+2016-06-01,"100% hedge, 3 months ahead",11.929
+2016-07-01,"100% hedge, 3 months ahead",16.437
+2016-08-01,"100% hedge, 3 months ahead",16.88
+2016-09-01,"100% hedge, 3 months ahead",14.79
+2016-10-01,"100% hedge, 3 months ahead",12.067
+2016-11-01,"100% hedge, 3 months ahead",12.34
+2016-12-01,"100% hedge, 3 months ahead",13.66
+2017-01-01,"100% hedge, 3 months ahead",14.913
+2017-02-01,"100% hedge, 3 months ahead",16.772
+2017-03-01,"100% hedge, 3 months ahead",15.219
+2017-04-01,"100% hedge, 3 months ahead",13.239
+2017-05-01,"100% hedge, 3 months ahead",11.238
+2017-06-01,"100% hedge, 3 months ahead",11.585
+2017-07-01,"100% hedge, 3 months ahead",14.914
+2017-08-01,"100% hedge, 3 months ahead",13.95
+2017-09-01,"100% hedge, 3 months ahead",13.932
+2017-10-01,"100% hedge, 3 months ahead",16.894
+2017-11-01,"100% hedge, 3 months ahead",18.385
+2017-12-01,"100% hedge, 3 months ahead",20.753
+2018-01-01,"100% hedge, 3 months ahead",15.712
+2018-02-01,"100% hedge, 3 months ahead",15.404
+2018-03-01,"100% hedge, 3 months ahead",11.82
+2018-04-01,"100% hedge, 3 months ahead",13.296
+2018-05-01,"100% hedge, 3 months ahead",12.705
+2018-06-01,"100% hedge, 3 months ahead",12.172
+2018-07-01,"100% hedge, 3 months ahead",13.071
+2018-08-01,"100% hedge, 3 months ahead",14.007
+2018-09-01,"100% hedge, 3 months ahead",12.469
+2018-10-01,"100% hedge, 3 months ahead",13.866
+2018-11-01,"100% hedge, 3 months ahead",15.753
+2018-12-01,"100% hedge, 3 months ahead",11.095
+2019-01-01,"100% hedge, 3 months ahead",8.414
+2019-02-01,"100% hedge, 3 months ahead",9.145
+2019-03-01,"100% hedge, 3 months ahead",9.204
+2019-04-01,"100% hedge, 3 months ahead",6.606
+2019-05-01,"100% hedge, 3 months ahead",7.418
+2019-06-01,"100% hedge, 3 months ahead",12.443
+2019-07-01,"100% hedge, 3 months ahead",14.725
+2019-08-01,"100% hedge, 3 months ahead",10.839
+2019-09-01,"100% hedge, 3 months ahead",10.347
+2019-10-01,"100% hedge, 3 months ahead",15.817
+2019-11-01,"100% hedge, 3 months ahead",13.947
+2019-12-01,"100% hedge, 3 months ahead",12.566
+2020-01-01,"100% hedge, 3 months ahead",15.802
+2020-02-01,"100% hedge, 3 months ahead",12.296
+2020-03-01,"100% hedge, 3 months ahead",8.484
+2020-04-01,"100% hedge, 3 months ahead",8.702
+2020-05-01,"100% hedge, 3 months ahead",11.411
+2020-06-01,"100% hedge, 3 months ahead",9.592
+2020-07-01,"100% hedge, 3 months ahead",10.411
+2020-08-01,"100% hedge, 3 months ahead",7.576
+2020-09-01,"100% hedge, 3 months ahead",6.853
+2020-10-01,"100% hedge, 3 months ahead",8.256
+2020-11-01,"100% hedge, 3 months ahead",7.42
+2020-12-01,"100% hedge, 3 months ahead",9.144
+2021-01-01,"100% hedge, 3 months ahead",9.604
+2021-02-01,"100% hedge, 3 months ahead",8.414
+2021-03-01,"100% hedge, 3 months ahead",8.264
+2021-04-01,"100% hedge, 3 months ahead",10.999
+2021-05-01,"100% hedge, 3 months ahead",12.137
+2021-06-01,"100% hedge, 3 months ahead",16.143
+2021-07-01,"100% hedge, 3 months ahead",17.044
+2021-08-01,"100% hedge, 3 months ahead",19.152
+2021-09-01,"100% hedge, 3 months ahead",17.198
+2021-10-01,"100% hedge, 3 months ahead",17.963
+2021-11-01,"100% hedge, 3 months ahead",20.634
+2021-12-01,"100% hedge, 3 months ahead",20.17
+2022-01-01,"100% hedge, 3 months ahead",21.787
+2022-02-01,"100% hedge, 3 months ahead",18.96
+2022-03-01,"100% hedge, 3 months ahead",18.675
+2022-04-01,"100% hedge, 3 months ahead",18.76
+2022-05-01,"100% hedge, 3 months ahead",19.862
+2022-06-01,"100% hedge, 3 months ahead",24.815
+2022-07-01,"100% hedge, 3 months ahead",41.262
+2022-08-01,"100% hedge, 3 months ahead",59.482
+2022-09-01,"100% hedge, 3 months ahead",51.93
+2022-10-01,"100% hedge, 3 months ahead",37.855
+2022-11-01,"100% hedge, 3 months ahead",34.598
+2022-12-01,"100% hedge, 3 months ahead",32.589
+2023-01-01,"100% hedge, 3 months ahead",52.041
+2023-02-01,"100% hedge, 3 months ahead",45.272
+2023-03-01,"100% hedge, 3 months ahead",28.658
+2023-04-01,"100% hedge, 3 months ahead",35.835
+2023-05-01,"100% hedge, 3 months ahead",27.977
+2023-06-01,"100% hedge, 3 months ahead",30.424
+2023-07-01,"100% hedge, 3 months ahead",28.811
+2023-08-01,"100% hedge, 3 months ahead",29.278
+2023-09-01,"100% hedge, 3 months ahead",33.718
+2023-10-01,"100% hedge, 3 months ahead",32.693
+2023-11-01,"100% hedge, 3 months ahead",37.962
+2023-12-01,"100% hedge, 3 months ahead",33.674
+2024-01-01,"100% hedge, 3 months ahead",23.699
+2024-02-01,"100% hedge, 3 months ahead",22.314
+2024-03-01,"100% hedge, 3 months ahead",21.544
+2024-04-01,"100% hedge, 3 months ahead",20.209
+2024-05-01,"100% hedge, 3 months ahead",20.543
+2024-06-01,"100% hedge, 3 months ahead",21.48
+2024-07-01,"100% hedge, 3 months ahead",23.786
+2024-08-01,"100% hedge, 3 months ahead",23.072
+2024-09-01,"100% hedge, 3 months ahead",20.32
+2024-10-01,"100% hedge, 3 months ahead",19.347
+2024-11-01,"100% hedge, 3 months ahead",16.785
+2024-12-01,"100% hedge, 3 months ahead",13.3
+2025-01-01,"100% hedge, 3 months ahead",15.774
+2025-02-01,"100% hedge, 3 months ahead",15.823
+2025-03-01,"100% hedge, 3 months ahead",14.158
+2025-04-01,"100% hedge, 3 months ahead",15.844
+2025-05-01,"100% hedge, 3 months ahead",18.305
+2025-06-01,"100% hedge, 3 months ahead",14.346
+2025-07-01,"100% hedge, 3 months ahead",15.144
+2025-08-01,"100% hedge, 3 months ahead",19.905
+2025-09-01,"100% hedge, 3 months ahead",19.694
+2025-10-01,"100% hedge, 3 months ahead",24.074
+2025-11-01,"100% hedge, 3 months ahead",24.113
+2025-12-01,"100% hedge, 3 months ahead",21.657
+2026-01-01,"100% hedge, 3 months ahead",21.104
+2026-02-01,"100% hedge, 3 months ahead",25.847
+2026-03-01,"100% hedge, 3 months ahead",18.878
+2026-04-01,"100% hedge, 3 months ahead",22.796
+2026-05-01,"100% hedge, 3 months ahead",22.393
+2026-06-01,"100% hedge, 3 months ahead",34.9
+2026-07-01,"100% hedge, 3 months ahead",30.151
+2026-08-01,"100% hedge, 3 months ahead",47.852
+2026-09-01,"100% hedge, 3 months ahead",47.007
+2026-10-01,"100% hedge, 3 months ahead",60.541
+2010-01-01,50% layered (1/3 each month),8.722
+2010-02-01,50% layered (1/3 each month),9.166
+2010-03-01,50% layered (1/3 each month),10.221
+2010-04-01,50% layered (1/3 each month),10.041
+2010-05-01,50% layered (1/3 each month),10.457
+2010-06-01,50% layered (1/3 each month),10.804
+2010-07-01,50% layered (1/3 each month),9.794
+2010-08-01,50% layered (1/3 each month),8.684
+2010-09-01,50% layered (1/3 each month),8.445
+2010-10-01,50% layered (1/3 each month),9.075
+2010-11-01,50% layered (1/3 each month),9.597
+2010-12-01,50% layered (1/3 each month),10.018
+2011-01-01,50% layered (1/3 each month),9.748
+2011-02-01,50% layered (1/3 each month),8.886
+2011-03-01,50% layered (1/3 each month),8.859
+2011-04-01,50% layered (1/3 each month),9.794
+2011-05-01,50% layered (1/3 each month),10.499
+2011-06-01,50% layered (1/3 each month),9.26
+2011-07-01,50% layered (1/3 each month),11.223
+2011-08-01,50% layered (1/3 each month),10.926
+2011-09-01,50% layered (1/3 each month),8.419
+2011-10-01,50% layered (1/3 each month),9.994
+2011-11-01,50% layered (1/3 each month),7.707
+2011-12-01,50% layered (1/3 each month),7.222
+2012-01-01,50% layered (1/3 each month),9.591
+2012-02-01,50% layered (1/3 each month),9.598
+2012-03-01,50% layered (1/3 each month),9.631
+2012-04-01,50% layered (1/3 each month),12.96
+2012-05-01,50% layered (1/3 each month),11.937
+2012-06-01,50% layered (1/3 each month),13.942
+2012-07-01,50% layered (1/3 each month),14.748
+2012-08-01,50% layered (1/3 each month),15.027
+2012-09-01,50% layered (1/3 each month),19.733
+2012-10-01,50% layered (1/3 each month),17.479
+2012-11-01,50% layered (1/3 each month),16.569
+2012-12-01,50% layered (1/3 each month),14.082
+2013-01-01,50% layered (1/3 each month),11.984
+2013-02-01,50% layered (1/3 each month),13.135
+2013-03-01,50% layered (1/3 each month),13.643
+2013-04-01,50% layered (1/3 each month),13.847
+2013-05-01,50% layered (1/3 each month),14.79
+2013-06-01,50% layered (1/3 each month),14.56
+2013-07-01,50% layered (1/3 each month),15.281
+2013-08-01,50% layered (1/3 each month),14.434
+2013-09-01,50% layered (1/3 each month),12.073
+2013-10-01,50% layered (1/3 each month),10.585
+2013-11-01,50% layered (1/3 each month),9.305
+2013-12-01,50% layered (1/3 each month),8.495
+2014-01-01,50% layered (1/3 each month),9.285
+2014-02-01,50% layered (1/3 each month),11.776
+2014-03-01,50% layered (1/3 each month),11.317
+2014-04-01,50% layered (1/3 each month),13.451
+2014-05-01,50% layered (1/3 each month),12.677
+2014-06-01,50% layered (1/3 each month),11.715
+2014-07-01,50% layered (1/3 each month),12.209
+2014-08-01,50% layered (1/3 each month),12.772
+2014-09-01,50% layered (1/3 each month),14.861
+2014-10-01,50% layered (1/3 each month),14.944
+2014-11-01,50% layered (1/3 each month),15.428
+2014-12-01,50% layered (1/3 each month),14.674
+2015-01-01,50% layered (1/3 each month),14.238
+2015-02-01,50% layered (1/3 each month),14.607
+2015-03-01,50% layered (1/3 each month),15.111
+2015-04-01,50% layered (1/3 each month),15.751
+2015-05-01,50% layered (1/3 each month),16.803
+2015-06-01,50% layered (1/3 each month),18.937
+2015-07-01,50% layered (1/3 each month),18.703
+2015-08-01,50% layered (1/3 each month),19.59
+2015-09-01,50% layered (1/3 each month),17.151
+2015-10-01,50% layered (1/3 each month),14.506
+2015-11-01,50% layered (1/3 each month),14.613
+2015-12-01,50% layered (1/3 each month),13.454
+2016-01-01,50% layered (1/3 each month),13.556
+2016-02-01,50% layered (1/3 each month),12.942
+2016-03-01,50% layered (1/3 each month),12.586
+2016-04-01,50% layered (1/3 each month),14.545
+2016-05-01,50% layered (1/3 each month),15.156
+2016-06-01,50% layered (1/3 each month),14.936
+2016-07-01,50% layered (1/3 each month),14.051
+2016-08-01,50% layered (1/3 each month),13.46
+2016-09-01,50% layered (1/3 each month),13.363
+2016-10-01,50% layered (1/3 each month),13.801
+2016-11-01,50% layered (1/3 each month),15.205
+2016-12-01,50% layered (1/3 each month),15.167
+2017-01-01,50% layered (1/3 each month),14.437
+2017-02-01,50% layered (1/3 each month),13.157
+2017-03-01,50% layered (1/3 each month),12.408
+2017-04-01,50% layered (1/3 each month),13.467
+2017-05-01,50% layered (1/3 each month),13.264
+2017-06-01,50% layered (1/3 each month),13.708
+2017-07-01,50% layered (1/3 each month),15.58
+2017-08-01,50% layered (1/3 each month),16.655
+2017-09-01,50% layered (1/3 each month),18.578
+2017-10-01,50% layered (1/3 each month),17.194
+2017-11-01,50% layered (1/3 each month),16.844
+2017-12-01,50% layered (1/3 each month),14.555
+2018-01-01,50% layered (1/3 each month),13.804
+2018-02-01,50% layered (1/3 each month),13.106
+2018-03-01,50% layered (1/3 each month),12.39
+2018-04-01,50% layered (1/3 each month),12.898
+2018-05-01,50% layered (1/3 each month),13.328
+2018-06-01,50% layered (1/3 each month),12.776
+2018-07-01,50% layered (1/3 each month),13.524
+2018-08-01,50% layered (1/3 each month),14.6
+2018-09-01,50% layered (1/3 each month),12.562
+2018-10-01,50% layered (1/3 each month),10.993
+2018-11-01,50% layered (1/3 each month),10.45
+2018-12-01,50% layered (1/3 each month),9.378
+2019-01-01,50% layered (1/3 each month),7.763
+2019-02-01,50% layered (1/3 each month),7.868
+2019-03-01,50% layered (1/3 each month),10.093
+2019-04-01,50% layered (1/3 each month),11.774
+2019-05-01,50% layered (1/3 each month),11.184
+2019-06-01,50% layered (1/3 each month),11.508
+2019-07-01,50% layered (1/3 each month),13.894
+2019-08-01,50% layered (1/3 each month),13.141
+2019-09-01,50% layered (1/3 each month),12.968
+2019-10-01,50% layered (1/3 each month),14.956
+2019-11-01,50% layered (1/3 each month),13.201
+2019-12-01,50% layered (1/3 each month),11.019
+2020-01-01,50% layered (1/3 each month),10.448
+2020-02-01,50% layered (1/3 each month),10.619
+2020-03-01,50% layered (1/3 each month),9.562
+2020-04-01,50% layered (1/3 each month),10.156
+2020-05-01,50% layered (1/3 each month),9.023
+2020-06-01,50% layered (1/3 each month),8.023
+2020-07-01,50% layered (1/3 each month),8.268
+2020-08-01,50% layered (1/3 each month),7.491
+2020-09-01,50% layered (1/3 each month),8.327
+2020-10-01,50% layered (1/3 each month),8.939
+2020-11-01,50% layered (1/3 each month),8.569
+2020-12-01,50% layered (1/3 each month),8.659
+2021-01-01,50% layered (1/3 each month),9.88
+2021-02-01,50% layered (1/3 each month),10.682
+2021-03-01,50% layered (1/3 each month),13.305
+2021-04-01,50% layered (1/3 each month),15.069
+2021-05-01,50% layered (1/3 each month),17.13
+2021-06-01,50% layered (1/3 each month),17.322
+2021-07-01,50% layered (1/3 each month),17.881
+2021-08-01,50% layered (1/3 each month),19.369
+2021-09-01,50% layered (1/3 each month),19.384
+2021-10-01,50% layered (1/3 each month),20.688
+2021-11-01,50% layered (1/3 each month),19.912
+2021-12-01,50% layered (1/3 each month),19.49
+2022-01-01,50% layered (1/3 each month),19.284
+2022-02-01,50% layered (1/3 each month),19.33
+2022-03-01,50% layered (1/3 each month),21.957
+2022-04-01,50% layered (1/3 each month),31.204
+2022-05-01,50% layered (1/3 each month),44.064
+2022-06-01,50% layered (1/3 each month),46.892
+2022-07-01,50% layered (1/3 each month),44.373
+2022-08-01,50% layered (1/3 each month),42.177
+2022-09-01,50% layered (1/3 each month),37.025
+2022-10-01,50% layered (1/3 each month),43.527
+2022-11-01,50% layered (1/3 each month),42.507
+2022-12-01,50% layered (1/3 each month),35.979
+2023-01-01,50% layered (1/3 each month),38.913
+2023-02-01,50% layered (1/3 each month),32.283
+2023-03-01,50% layered (1/3 each month),30.623
+2023-04-01,50% layered (1/3 each month),30.111
+2023-05-01,50% layered (1/3 each month),29.174
+2023-06-01,50% layered (1/3 each month),31.611
+2023-07-01,50% layered (1/3 each month),31.647
+2023-08-01,50% layered (1/3 each month),34.929
+2023-09-01,50% layered (1/3 each month),34.233
+2023-10-01,50% layered (1/3 each month),29.238
+2023-11-01,50% layered (1/3 each month),27.046
+2023-12-01,50% layered (1/3 each month),24.053
+2024-01-01,50% layered (1/3 each month),21.364
+2024-02-01,50% layered (1/3 each month),20.95
+2024-03-01,50% layered (1/3 each month),21.123
+2024-04-01,50% layered (1/3 each month),22.265
+2024-05-01,50% layered (1/3 each month),22.504
+2024-06-01,50% layered (1/3 each month),21.55
+2024-07-01,50% layered (1/3 each month),20.87
+2024-08-01,50% layered (1/3 each month),18.849
+2024-09-01,50% layered (1/3 each month),16.059
+2024-10-01,50% layered (1/3 each month),16.126
+2024-11-01,50% layered (1/3 each month),15.554
+2024-12-01,50% layered (1/3 each month),14.562
+2025-01-01,50% layered (1/3 each month),15.548
+2025-02-01,50% layered (1/3 each month),16.79
+2025-03-01,50% layered (1/3 each month),15.224
+2025-04-01,50% layered (1/3 each month),15.654
+2025-05-01,50% layered (1/3 each month),17.918
+2025-06-01,50% layered (1/3 each month),18.08
+2025-07-01,50% layered (1/3 each month),21.161
+2025-08-01,50% layered (1/3 each month),22.669
+2025-09-01,50% layered (1/3 each month),22.142
+2025-10-01,50% layered (1/3 each month),22.193
+2025-11-01,50% layered (1/3 each month),24.069
+2025-12-01,50% layered (1/3 each month),20.874
+2026-01-01,50% layered (1/3 each month),22.37
+2026-02-01,50% layered (1/3 each month),22.45
+2026-03-01,50% layered (1/3 each month),28.128
+2026-04-01,50% layered (1/3 each month),28.424
+2026-05-01,50% layered (1/3 each month),38.5
+2026-06-01,50% layered (1/3 each month),42.321
+2026-07-01,50% layered (1/3 each month),51.105
+2026-08-01,50% layered (1/3 each month),54.799
+2026-09-01,50% layered (1/3 each month),53.014
+2026-10-01,50% layered (1/3 each month),43.38
+2010-01-01,50% annual budget hedge,8.445
+2010-02-01,50% annual budget hedge,8.714
+2010-03-01,50% annual budget hedge,9.171
+2010-04-01,50% annual budget hedge,8.268
+2010-05-01,50% annual budget hedge,8.744
+2010-06-01,50% annual budget hedge,9.08
+2010-07-01,50% annual budget hedge,8.101
+2010-08-01,50% annual budget hedge,7.046
+2010-09-01,50% annual budget hedge,7.373
+2010-10-01,50% annual budget hedge,8.573
+2010-11-01,50% annual budget hedge,8.937
+2010-12-01,50% annual budget hedge,8.728
+2011-01-01,50% annual budget hedge,9.73
+2011-02-01,50% annual budget hedge,9.057
+2011-03-01,50% annual budget hedge,9.564
+2011-04-01,50% annual budget hedge,10.796
+2011-05-01,50% annual budget hedge,11.145
+2011-06-01,50% annual budget hedge,9.21
+2011-07-01,50% annual budget hedge,11.291
+2011-08-01,50% annual budget hedge,10.829
+2011-09-01,50% annual budget hedge,8.428
+2011-10-01,50% annual budget hedge,10.263
+2011-11-01,50% annual budget hedge,8.318
+2011-12-01,50% annual budget hedge,8.671
+2012-01-01,50% annual budget hedge,9.178
+2012-02-01,50% annual budget hedge,8.952
+2012-03-01,50% annual budget hedge,8.18
+2012-04-01,50% annual budget hedge,11.079
+2012-05-01,50% annual budget hedge,9.422
+2012-06-01,50% annual budget hedge,11.271
+2012-07-01,50% annual budget hedge,11.047
+2012-08-01,50% annual budget hedge,11.337
+2012-09-01,50% annual budget hedge,15.404
+2012-10-01,50% annual budget hedge,11.772
+2012-11-01,50% annual budget hedge,10.621
+2012-12-01,50% annual budget hedge,8.372
+2013-01-01,50% annual budget hedge,10.101
+2013-02-01,50% annual budget hedge,12.303
+2013-03-01,50% annual budget hedge,12.744
+2013-04-01,50% annual budget hedge,11.986
+2013-05-01,50% annual budget hedge,12.3
+2013-06-01,50% annual budget hedge,12.071
+2013-07-01,50% annual budget hedge,13.016
+2013-08-01,50% annual budget hedge,11.826
+2013-09-01,50% annual budget hedge,9.623
+2013-10-01,50% annual budget hedge,8.951
+2013-11-01,50% annual budget hedge,9.026
+2013-12-01,50% annual budget hedge,9.15
+2014-01-01,50% annual budget hedge,9.392
+2014-02-01,50% annual budget hedge,11.502
+2014-03-01,50% annual budget hedge,9.982
+2014-04-01,50% annual budget hedge,11.604
+2014-05-01,50% annual budget hedge,10.093
+2014-06-01,50% annual budget hedge,9.6
+2014-07-01,50% annual budget hedge,10.222
+2014-08-01,50% annual budget hedge,11.245
+2014-09-01,50% annual budget hedge,12.951
+2014-10-01,50% annual budget hedge,11.916
+2014-11-01,50% annual budget hedge,11.835
+2014-12-01,50% annual budget hedge,10.885
+2015-01-01,50% annual budget hedge,13.577
+2015-02-01,50% annual budget hedge,14.206
+2015-03-01,50% annual budget hedge,14.734
+2015-04-01,50% annual budget hedge,14.904
+2015-05-01,50% annual budget hedge,15.513
+2015-06-01,50% annual budget hedge,17.211
+2015-07-01,50% annual budget hedge,16.152
+2015-08-01,50% annual budget hedge,16.623
+2015-09-01,50% annual budget hedge,13.813
+2015-10-01,50% annual budget hedge,12.302
+2015-11-01,50% annual budget hedge,13.691
+2015-12-01,50% annual budget hedge,13.51
+2016-01-01,50% annual budget hedge,13.898
+2016-02-01,50% annual budget hedge,12.814
+2016-03-01,50% annual budget hedge,12.813
+2016-04-01,50% annual budget hedge,15.066
+2016-05-01,50% annual budget hedge,15.288
+2016-06-01,50% annual budget hedge,14.243
+2016-07-01,50% annual budget hedge,12.881
+2016-08-01,50% annual budget hedge,13.018
+2016-09-01,50% annual budget hedge,13.678
+2016-10-01,50% annual budget hedge,14.304
+2016-11-01,50% annual budget hedge,15.234
+2016-12-01,50% annual budget hedge,14.457
+2017-01-01,50% annual budget hedge,14.229
+2017-02-01,50% annual budget hedge,13.228
+2017-03-01,50% annual budget hedge,13.402
+2017-04-01,50% annual budget hedge,15.066
+2017-05-01,50% annual budget hedge,14.584
+2017-06-01,50% annual budget hedge,14.576
+2017-07-01,50% annual budget hedge,16.056
+2017-08-01,50% annual budget hedge,16.802
+2017-09-01,50% annual budget hedge,17.986
+2017-10-01,50% annual budget hedge,15.465
+2017-11-01,50% annual budget hedge,15.312
+2017-12-01,50% annual budget hedge,13.519
+2018-01-01,50% annual budget hedge,12.558
+2018-02-01,50% annual budget hedge,12.263
+2018-03-01,50% annual budget hedge,11.996
+2018-04-01,50% annual budget hedge,12.445
+2018-05-01,50% annual budget hedge,12.914
+2018-06-01,50% annual budget hedge,12.144
+2018-07-01,50% annual budget hedge,12.843
+2018-08-01,50% annual budget hedge,13.786
+2018-09-01,50% annual budget hedge,11.458
+2018-10-01,50% annual budget hedge,10.117
+2018-11-01,50% annual budget hedge,10.483
+2018-12-01,50% annual budget hedge,10.512
+2019-01-01,50% annual budget hedge,7.905
+2019-02-01,50% annual budget hedge,8.311
+2019-03-01,50% annual budget hedge,10.823
+2019-04-01,50% annual budget hedge,11.964
+2019-05-01,50% annual budget hedge,10.021
+2019-06-01,50% annual budget hedge,9.775
+2019-07-01,50% annual budget hedge,12.51
+2019-08-01,50% annual budget hedge,11.575
+2019-09-01,50% annual budget hedge,10.885
+2019-10-01,50% annual budget hedge,12.503
+2019-11-01,50% annual budget hedge,10.75
+2019-12-01,50% annual budget hedge,8.844
+2020-01-01,50% annual budget hedge,8.593
+2020-02-01,50% annual budget hedge,9.947
+2020-03-01,50% annual budget hedge,9.038
+2020-04-01,50% annual budget hedge,9.447
+2020-05-01,50% annual budget hedge,8.03
+2020-06-01,50% annual budget hedge,7.668
+2020-07-01,50% annual budget hedge,8.37
+2020-08-01,50% annual budget hedge,7.952
+2020-09-01,50% annual budget hedge,8.814
+2020-10-01,50% annual budget hedge,9.044
+2020-11-01,50% annual budget hedge,8.449
+2020-12-01,50% annual budget hedge,8.374
+2021-01-01,50% annual budget hedge,9.632
+2021-02-01,50% annual budget hedge,10.201
+2021-03-01,50% annual budget hedge,12.204
+2021-04-01,50% annual budget hedge,12.654
+2021-05-01,50% annual budget hedge,13.708
+2021-06-01,50% annual budget hedge,12.731
+2021-07-01,50% annual budget hedge,13.114
+2021-08-01,50% annual budget hedge,14.449
+2021-09-01,50% annual budget hedge,14.217
+2021-10-01,50% annual budget hedge,15.025
+2021-11-01,50% annual budget hedge,13.612
+2021-12-01,50% annual budget hedge,13.47
+2022-01-01,50% annual budget hedge,18.718
+2022-02-01,50% annual budget hedge,19.268
+2022-03-01,50% annual budget hedge,21.745
+2022-04-01,50% annual budget hedge,29.968
+2022-05-01,50% annual budget hedge,39.078
+2022-06-01,50% annual budget hedge,35.303
+2022-07-01,50% annual budget hedge,28.265
+2022-08-01,50% annual budget hedge,26.637
+2022-09-01,50% annual budget hedge,25.632
+2022-10-01,50% annual budget hedge,35.358
+2022-11-01,50% annual budget hedge,31.974
+2022-12-01,50% annual budget hedge,23.667
+2023-01-01,50% annual budget hedge,32.246
+2023-02-01,50% annual budget hedge,28.318
+2023-03-01,50% annual budget hedge,29.541
+2023-04-01,50% annual budget hedge,28.734
+2023-05-01,50% annual budget hedge,28.968
+2023-06-01,50% annual budget hedge,31.188
+2023-07-01,50% annual budget hedge,30.675
+2023-08-01,50% annual budget hedge,33.31
+2023-09-01,50% annual budget hedge,31.166
+2023-10-01,50% annual budget hedge,26.179
+2023-11-01,50% annual budget hedge,25.486
+2023-12-01,50% annual budget hedge,25.101
+2024-01-01,50% annual budget hedge,20.877
+2024-02-01,50% annual budget hedge,21.044
+2024-03-01,50% annual budget hedge,21.512
+2024-04-01,50% annual budget hedge,22.665
+2024-05-01,50% annual budget hedge,22.308
+2024-06-01,50% annual budget hedge,20.932
+2024-07-01,50% annual budget hedge,20.445
+2024-08-01,50% annual budget hedge,19.164
+2024-09-01,50% annual budget hedge,17.422
+2024-10-01,50% annual budget hedge,18.659
+2024-11-01,50% annual budget hedge,18.683
+2024-12-01,50% annual budget hedge,17.851
+2025-01-01,50% annual budget hedge,15.001
+2025-02-01,50% annual budget hedge,16.232
+2025-03-01,50% annual budget hedge,14.252
+2025-04-01,50% annual budget hedge,14.651
+2025-05-01,50% annual budget hedge,17.032
+2025-06-01,50% annual budget hedge,16.926
+2025-07-01,50% annual budget hedge,19.116
+2025-08-01,50% annual budget hedge,19.136
+2025-09-01,50% annual budget hedge,17.908
+2025-10-01,50% annual budget hedge,17.631
+2025-11-01,50% annual budget hedge,20.003
+2025-12-01,50% annual budget hedge,16.518
+2026-01-01,50% annual budget hedge,20.837
+2026-02-01,50% annual budget hedge,20.636
+2026-03-01,50% annual budget hedge,26.889
+2026-04-01,50% annual budget hedge,24.515
+2026-05-01,50% annual budget hedge,33.365
+2026-06-01,50% annual budget hedge,32.943
+2026-07-01,50% annual budget hedge,39.71
+2026-08-01,50% annual budget hedge,38.338
+2026-09-01,50% annual budget hedge,34.895
+2026-10-01,50% annual budget hedge,24.611
+2010-01-01,Opportunistic (lock only when high),9.885
+2010-02-01,Opportunistic (lock only when high),10.423
+2010-03-01,Opportunistic (lock only when high),11.338
+2010-04-01,Opportunistic (lock only when high),9.532
+2010-05-01,Opportunistic (lock only when high),10.483
+2010-06-01,Opportunistic (lock only when high),11.156
+2010-07-01,Opportunistic (lock only when high),9.198
+2010-08-01,Opportunistic (lock only when high),7.088
+2010-09-01,Opportunistic (lock only when high),7.743
+2010-10-01,Opportunistic (lock only when high),10.141
+2010-11-01,Opportunistic (lock only when high),10.87
+2010-12-01,Opportunistic (lock only when high),10.452
+2011-01-01,Opportunistic (lock only when high),9.009
+2011-02-01,Opportunistic (lock only when high),7.662
+2011-03-01,Opportunistic (lock only when high),8.677
+2011-04-01,Opportunistic (lock only when high),11.14
+2011-05-01,Opportunistic (lock only when high),11.838
+2011-06-01,Opportunistic (lock only when high),7.969
+2011-07-01,Opportunistic (lock only when high),11.14
+2011-08-01,Opportunistic (lock only when high),11.838
+2011-09-01,Opportunistic (lock only when high),6.404
+2011-10-01,Opportunistic (lock only when high),12.13
+2011-11-01,Opportunistic (lock only when high),11.206
+2011-12-01,Opportunistic (lock only when high),6.89
+2012-01-01,Opportunistic (lock only when high),11.465
+2012-02-01,Opportunistic (lock only when high),11.015
+2012-03-01,Opportunistic (lock only when high),9.471
+2012-04-01,Opportunistic (lock only when high),11.465
+2012-05-01,Opportunistic (lock only when high),11.015
+2012-06-01,Opportunistic (lock only when high),15.652
+2012-07-01,Opportunistic (lock only when high),15.268
+2012-08-01,Opportunistic (lock only when high),11.955
+2012-09-01,Opportunistic (lock only when high),15.652
+2012-10-01,Opportunistic (lock only when high),15.204
+2012-11-01,Opportunistic (lock only when high),15.784
+2012-12-01,Opportunistic (lock only when high),23.919
+2013-01-01,Opportunistic (lock only when high),16.655
+2013-02-01,Opportunistic (lock only when high),14.353
+2013-03-01,Opportunistic (lock only when high),15.634
+2013-04-01,Opportunistic (lock only when high),14.117
+2013-05-01,Opportunistic (lock only when high),14.752
+2013-06-01,Opportunistic (lock only when high),15.634
+2013-07-01,Opportunistic (lock only when high),14.117
+2013-08-01,Opportunistic (lock only when high),14.746
+2013-09-01,Opportunistic (lock only when high),14.288
+2013-10-01,Opportunistic (lock only when high),16.177
+2013-11-01,Opportunistic (lock only when high),8.197
+2013-12-01,Opportunistic (lock only when high),8.445
+2014-01-01,Opportunistic (lock only when high),10.34
+2014-02-01,Opportunistic (lock only when high),14.558
+2014-03-01,Opportunistic (lock only when high),11.519
+2014-04-01,Opportunistic (lock only when high),14.763
+2014-05-01,Opportunistic (lock only when high),14.558
+2014-06-01,Opportunistic (lock only when high),10.755
+2014-07-01,Opportunistic (lock only when high),14.763
+2014-08-01,Opportunistic (lock only when high),14.046
+2014-09-01,Opportunistic (lock only when high),17.457
+2014-10-01,Opportunistic (lock only when high),15.388
+2014-11-01,Opportunistic (lock only when high),15.226
+2014-12-01,Opportunistic (lock only when high),17.457
+2015-01-01,Opportunistic (lock only when high),15.388
+2015-02-01,Opportunistic (lock only when high),15.226
+2015-03-01,Opportunistic (lock only when high),16.143
+2015-04-01,Opportunistic (lock only when high),16.483
+2015-05-01,Opportunistic (lock only when high),17.702
+2015-06-01,Opportunistic (lock only when high),16.143
+2015-07-01,Opportunistic (lock only when high),16.483
+2015-08-01,Opportunistic (lock only when high),17.702
+2015-09-01,Opportunistic (lock only when high),21.098
+2015-10-01,Opportunistic (lock only when high),18.979
+2015-11-01,Opportunistic (lock only when high),19.921
+2015-12-01,Opportunistic (lock only when high),13.696
+2016-01-01,Opportunistic (lock only when high),14.1
+2016-02-01,Opportunistic (lock only when high),11.932
+2016-03-01,Opportunistic (lock only when high),11.929
+2016-04-01,Opportunistic (lock only when high),16.437
+2016-05-01,Opportunistic (lock only when high),16.88
+2016-06-01,Opportunistic (lock only when high),14.79
+2016-07-01,Opportunistic (lock only when high),16.437
+2016-08-01,Opportunistic (lock only when high),16.88
+2016-09-01,Opportunistic (lock only when high),13.66
+2016-10-01,Opportunistic (lock only when high),14.913
+2016-11-01,Opportunistic (lock only when high),16.772
+2016-12-01,Opportunistic (lock only when high),15.219
+2017-01-01,Opportunistic (lock only when high),13.239
+2017-02-01,Opportunistic (lock only when high),16.772
+2017-03-01,Opportunistic (lock only when high),11.585
+2017-04-01,Opportunistic (lock only when high),14.914
+2017-05-01,Opportunistic (lock only when high),13.95
+2017-06-01,Opportunistic (lock only when high),13.932
+2017-07-01,Opportunistic (lock only when high),16.894
+2017-08-01,Opportunistic (lock only when high),18.385
+2017-09-01,Opportunistic (lock only when high),20.753
+2017-10-01,Opportunistic (lock only when high),16.894
+2017-11-01,Opportunistic (lock only when high),18.385
+2017-12-01,Opportunistic (lock only when high),20.753
+2018-01-01,Opportunistic (lock only when high),13.296
+2018-02-01,Opportunistic (lock only when high),12.705
+2018-03-01,Opportunistic (lock only when high),12.172
+2018-04-01,Opportunistic (lock only when high),13.071
+2018-05-01,Opportunistic (lock only when high),14.007
+2018-06-01,Opportunistic (lock only when high),12.469
+2018-07-01,Opportunistic (lock only when high),13.866
+2018-08-01,Opportunistic (lock only when high),15.753
+2018-09-01,Opportunistic (lock only when high),11.095
+2018-10-01,Opportunistic (lock only when high),8.414
+2018-11-01,Opportunistic (lock only when high),15.753
+2018-12-01,Opportunistic (lock only when high),9.204
+2019-01-01,Opportunistic (lock only when high),6.606
+2019-02-01,Opportunistic (lock only when high),7.418
+2019-03-01,Opportunistic (lock only when high),12.443
+2019-04-01,Opportunistic (lock only when high),14.725
+2019-05-01,Opportunistic (lock only when high),10.839
+2019-06-01,Opportunistic (lock only when high),10.347
+2019-07-01,Opportunistic (lock only when high),15.817
+2019-08-01,Opportunistic (lock only when high),13.947
+2019-09-01,Opportunistic (lock only when high),12.566
+2019-10-01,Opportunistic (lock only when high),15.817
+2019-11-01,Opportunistic (lock only when high),12.296
+2019-12-01,Opportunistic (lock only when high),8.484
+2020-01-01,Opportunistic (lock only when high),15.802
+2020-02-01,Opportunistic (lock only when high),11.411
+2020-03-01,Opportunistic (lock only when high),9.592
+2020-04-01,Opportunistic (lock only when high),10.411
+2020-05-01,Opportunistic (lock only when high),7.576
+2020-06-01,Opportunistic (lock only when high),6.853
+2020-07-01,Opportunistic (lock only when high),8.256
+2020-08-01,Opportunistic (lock only when high),7.42
+2020-09-01,Opportunistic (lock only when high),9.144
+2020-10-01,Opportunistic (lock only when high),9.604
+2020-11-01,Opportunistic (lock only when high),8.414
+2020-12-01,Opportunistic (lock only when high),8.264
+2021-01-01,Opportunistic (lock only when high),10.999
+2021-02-01,Opportunistic (lock only when high),12.137
+2021-03-01,Opportunistic (lock only when high),16.143
+2021-04-01,Opportunistic (lock only when high),17.044
+2021-05-01,Opportunistic (lock only when high),19.152
+2021-06-01,Opportunistic (lock only when high),16.143
+2021-07-01,Opportunistic (lock only when high),17.044
+2021-08-01,Opportunistic (lock only when high),19.152
+2021-09-01,Opportunistic (lock only when high),17.198
+2021-10-01,Opportunistic (lock only when high),17.963
+2021-11-01,Opportunistic (lock only when high),20.634
+2021-12-01,Opportunistic (lock only when high),20.17
+2022-01-01,Opportunistic (lock only when high),21.787
+2022-02-01,Opportunistic (lock only when high),18.96
+2022-03-01,Opportunistic (lock only when high),18.675
+2022-04-01,Opportunistic (lock only when high),18.76
+2022-05-01,Opportunistic (lock only when high),19.862
+2022-06-01,Opportunistic (lock only when high),24.815
+2022-07-01,Opportunistic (lock only when high),41.262
+2022-08-01,Opportunistic (lock only when high),59.482
+2022-09-01,Opportunistic (lock only when high),51.93
+2022-10-01,Opportunistic (lock only when high),37.855
+2022-11-01,Opportunistic (lock only when high),34.598
+2022-12-01,Opportunistic (lock only when high),32.589
+2023-01-01,Opportunistic (lock only when high),52.041
+2023-02-01,Opportunistic (lock only when high),45.272
+2023-03-01,Opportunistic (lock only when high),28.658
+2023-04-01,Opportunistic (lock only when high),35.835
+2023-05-01,Opportunistic (lock only when high),27.977
+2023-06-01,Opportunistic (lock only when high),30.424
+2023-07-01,Opportunistic (lock only when high),28.811
+2023-08-01,Opportunistic (lock only when high),29.278
+2023-09-01,Opportunistic (lock only when high),33.718
+2023-10-01,Opportunistic (lock only when high),32.693
+2023-11-01,Opportunistic (lock only when high),37.962
+2023-12-01,Opportunistic (lock only when high),33.674
+2024-01-01,Opportunistic (lock only when high),20.209
+2024-02-01,Opportunistic (lock only when high),20.543
+2024-03-01,Opportunistic (lock only when high),21.48
+2024-04-01,Opportunistic (lock only when high),23.786
+2024-05-01,Opportunistic (lock only when high),23.072
+2024-06-01,Opportunistic (lock only when high),20.32
+2024-07-01,Opportunistic (lock only when high),19.347
+2024-08-01,Opportunistic (lock only when high),16.785
+2024-09-01,Opportunistic (lock only when high),13.3
+2024-10-01,Opportunistic (lock only when high),15.774
+2024-11-01,Opportunistic (lock only when high),15.823
+2024-12-01,Opportunistic (lock only when high),14.158
+2025-01-01,Opportunistic (lock only when high),15.844
+2025-02-01,Opportunistic (lock only when high),18.305
+2025-03-01,Opportunistic (lock only when high),14.346
+2025-04-01,Opportunistic (lock only when high),15.144
+2025-05-01,Opportunistic (lock only when high),19.905
+2025-06-01,Opportunistic (lock only when high),19.694
+2025-07-01,Opportunistic (lock only when high),24.074
+2025-08-01,Opportunistic (lock only when high),24.113
+2025-09-01,Opportunistic (lock only when high),21.657
+2025-10-01,Opportunistic (lock only when high),21.104
+2025-11-01,Opportunistic (lock only when high),25.847
+2025-12-01,Opportunistic (lock only when high),18.878
+2026-01-01,Opportunistic (lock only when high),22.796
+2026-02-01,Opportunistic (lock only when high),25.847
+2026-03-01,Opportunistic (lock only when high),34.9
+2026-04-01,Opportunistic (lock only when high),30.151
+2026-05-01,Opportunistic (lock only when high),47.852
+2026-06-01,Opportunistic (lock only when high),34.9
+2026-07-01,Opportunistic (lock only when high),30.151
+2026-08-01,Opportunistic (lock only when high),47.852
+2026-09-01,Opportunistic (lock only when high),47.007
+2026-10-01,Opportunistic (lock only when high),60.541
