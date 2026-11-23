@@ -3,3 +3,5 @@ __pycache__/
 .venv/
 data/refinery.db
 .DS_Store
+.env
+.ipynb_checkpoints/

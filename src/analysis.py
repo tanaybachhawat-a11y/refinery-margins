@@ -185,6 +185,16 @@ def main() -> None:
     results["flex_gain_per_bbl_2022_2026"] = flex_gain_recent
     results["flex_gain_usd_m_per_year"] = mm.annual_value(flex_gain) / 1e6
     results["flex_gain_usd_m_per_year_2022_2026"] = mm.annual_value(flex_gain_recent) / 1e6
+    # Split the gain into its two sources:
+    #   1. slate effect  = always running max-diesel vs the base case (a design choice)
+    #   2. switching     = switching monthly vs always running max-diesel (operational flexibility)
+    for label, period in [("2007_2026", flex_bt), ("2022_2026", flex.loc["2022":])]:
+        slate = (period[mm.MAX_DIESEL.name] - period[mm.BASE.name]).mean()
+        switching = (period["Flexible (switches monthly)"] - period[mm.MAX_DIESEL.name]).mean()
+        results[f"diesel_slate_gain_per_bbl_{label}"] = slate
+        results[f"diesel_slate_gain_usd_m_per_year_{label}"] = mm.annual_value(slate) / 1e6
+        results[f"switching_gain_per_bbl_{label}"] = switching
+        results[f"switching_gain_usd_m_per_year_{label}"] = mm.annual_value(switching) / 1e6
     results["pct_months_diesel_mode"] = 100 * (flex_bt["mode_chosen"] == "diesel").mean()
     results["base_margin_usd_m_per_year"] = mm.annual_value(base_mean) / 1e6
 

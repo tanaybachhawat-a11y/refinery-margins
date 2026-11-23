@@ -5,7 +5,7 @@
 A data project that brings together chemical engineering, commodity markets and data analytics. It answers three questions:
 
 1. **What drives refinery margins?** 20 years of daily Brent, WTI, gasoline and diesel prices, turned into crack spreads with SQL.
-2. **What is a refinery's ability to change its product slate worth?** A yield-based margin model of a diesel-oriented NW European refinery the size of Fawley (~270,000 bbl/day).
+2. **What is a diesel-heavy product slate worth, and how much does the ability to switch slates add?** A yield-based margin model of a diesel-oriented NW European refinery the size of Fawley (~270,000 bbl/day).
 3. **Should a refiner hedge?** A backtest of six hedging strategies, comparing the risk each removes with what it costs.
 
 ![3-2-1 crack spread](outputs/charts/01_crack_321_history.png)
@@ -20,7 +20,7 @@ A data project that brings together chemical engineering, commodity markets and 
 | **Diesel has driven the shift** | Since the US-Israeli war on Iran began on 28 Feb 2026 and shipping through the Strait of Hormuz was disrupted, the diesel crack has averaged **$72/bbl** against **$31/bbl** for gasoline. By October 2026 the gap was extreme: diesel **$84**, gasoline **$3.5**. The Middle East is a major exporter of diesel and jet fuel, so the disruption hit middle distillates hardest. |
 | **Seasonality is real and predictable** | Gasoline cracks run about **$3/bbl above** their annual average in May (driving season) and nearly **$4 below** in December. Diesel peaks in **November** (heating demand). |
 | **Volatility hit a record in 2026** | 60-day crack volatility peaked at **$82/bbl annualised** in 2026, against a 20-year median of $22. That is higher than in 2008 or 2022. |
-| **Product flexibility pays** | A refinery that switches between max-diesel and max-gasoline mode each month (deciding on last month's prices, no hindsight) earns **+$0.36/bbl** on average, or about **$32m a year** at Fawley scale. Since 2022 that has doubled to **+$0.71/bbl (~$63m a year)**, and diesel mode was the better choice in 81% of months. |
+| **Being built for diesel pays; switching barely does** | Running a diesel-heavy slate (max-diesel mode) instead of the base case earns **+$0.33/bbl**, about **$30m a year** at Fawley scale, rising to **+$0.69/bbl (~$61m a year)** since 2022. Switching monthly between max-diesel and max-gasoline mode (deciding on last month's prices, no hindsight) adds only **~$0.03/bbl (~$3m a year)** on top, because diesel mode was the better choice in 81% of months. The value comes from the refinery's design, not from month-to-month flexibility. |
 | **Hedging buys certainty, not average margin** | A 50% hedge placed 3 months ahead **halves** how far the margin lands from what was visible when planning ($7.3 → $3.6/bbl), at an average cost of $0.29/bbl. It reduces overall volatility by only 10%, because a 3-month hedge cannot protect against multi-year regime shifts. |
 | **Hedging is painful in a spike** | The 50% hedge would have **lost ~$246m in 2022** and **~$325m in 2026 (annualised)** for a Fawley-size refinery, then **gained ~$216m in 2023** when cracks fell back. |
 | **Hedging the crack is not hedging the margin** | Part of a refinery's margin is tied to the **crude price level** (crude burned as fuel or lost, and low-value products sold below crude). A crack hedge leaves that exposure open: none of the hedges reduced the number of months with a negative modelled net margin, except the opportunistic one (43 vs 49). |
@@ -60,7 +60,7 @@ Data checks in `build_db.py` look for missing values, duplicate rows and non-pos
 - **Brent** is used as the main benchmark because the refinery being modelled is in NW Europe. NY Harbor product prices stand in for European ones; the US East Coast imports European gasoline, so the two markets are closely linked by arbitrage.
 
 ### Refinery margin model (`src/margin_model.py`)
-Net margin = (yields × product prices) − crude cost − variable opex. Base case: 28% gasoline, 44% diesel/jet, 24% other products valued at 90% of Brent, 4% fuel and loss, $4/bbl opex. Max-diesel and max-gasoline modes move 4% of yield between gasoline and distillate. This is roughly what a refinery can do by changing distillation cut points and the severity of its FCC and hydrocracker.
+Net margin = (yields × product prices) − crude cost − variable opex. Base case: 28% gasoline, 44% diesel/jet, 24% other products valued at 90% of Brent, 4% fuel and loss, $4/bbl opex. Max-diesel and max-gasoline modes move 4% of yield between gasoline and distillate. This is roughly what a refinery can do by changing distillation cut points and the severity of its FCC and hydrocracker. The gain is split into a **slate effect** (always max-diesel vs base) and a **switching effect** (switching monthly vs always max-diesel), both reported in `key_results.json`.
 > These parameters are **illustrative assumptions**, not ExxonMobil data. The model is built so they are easy to change.
 
 ### Hedging backtest (`src/hedge_backtest.py`)
